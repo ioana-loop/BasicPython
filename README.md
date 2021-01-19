@@ -1,2 +1,4 @@
 # BasicPython
-Lists, Tuples, Dictionaries, Functions
+1. Lists, Tuples, Dictionaries, Functions
+2. Data visualization with pandas
+
