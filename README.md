@@ -5,3 +5,4 @@ In this Repository, you will find Jupyter notebooks with exercises that walk thr
 1. Lists, Tuples, Dictionaries, Functions
 2. Data visualization with pandas
 
+- distance between two points in a list
