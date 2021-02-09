@@ -11,3 +11,5 @@ In this Repository, you will find Jupyter notebooks with exercises that walk thr
 - index/ sort k closest points to the test point
 
 2. Data visualization with pandas
+
+3. Seaborn visualizations
